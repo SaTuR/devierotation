@@ -1,0 +1,2 @@
+# devierotation
+Algunas de las aplicaciones, como las de mapas y ubicación en general, requieren el uso de muchos o todos los sensores del dispositivo, incluyendo el giroscopio y el acelerómetro.  En este proyecto debes crear una aplicación que muestre en un label cuál es la rotación del dispositivo con respecto al eje X del dispositivo o el eje Roll; y, dependiendo de este valor, cambiar el color de pantalla.
